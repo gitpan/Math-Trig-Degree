@@ -1,0 +1,11 @@
+MANIFEST
+Changes
+Degree.pm
+Makefile.PL
+README
+misc/make_manifest.pl
+t/angular_checks_degrees.test
+t/angular_checks_radians.test
+t/test.t
+html/docs.css
+html/Degree.html
